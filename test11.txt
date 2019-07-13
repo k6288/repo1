@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is BE24-6806
+
+ Directory of C:\Users\hp1\myproject
+
+13-07-2019  16:22    <DIR>          .
+13-07-2019  16:22    <DIR>          ..
+12-07-2019  16:33                10 test1.txt
+13-07-2019  16:22                 0 test11.txt
+               2 File(s)             10 bytes
+               2 Dir(s)  323,000,356,864 bytes free
